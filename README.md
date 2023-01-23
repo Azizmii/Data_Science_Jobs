@@ -1,2 +1,11 @@
 # Data_Science_Jobs
 EDA on Data Science Job Salaries
+The dataset for Data Science Job Salaries covers a period of 3 years, from 2020 to 2022. The data professionals in the dataset are primarily from the US and have a majority of Senior-level and Mid-level experience. The most common Job Titles are Data Scientists, Data Engineers, and Data Analysts. Many of the data professionals in the dataset are Full-time employees and work for medium and small companies.
+
+The dataset shows a steady increase in the number of data professionals, from 72 in 2020 to 217 in 2021, and 318 in 2022. The highest salary earned during the period was USD600,000 , while the lowest was USD2,859, and the average salary was USD101,570. A significant majority (63%) of the data professionals worked fully remotely, while 16% worked partially remotely, and the rest worked on-site.
+
+The analysis of the data by experience level shows that the top 3 job titles across all experience levels are Data Engineers, Data Scientists, and Data Analysts. Most data professionals work with Medium-sized companies, and most of them are Senior-level and Mid-level professionals. The majority of data professionals work in the US, and most of them are Senior-level and Mid-level professionals.
+
+The total salaries earned by data professionals have seen a sharp rise from USD6.8 million in 2020 to USD39.6 million in 2022. Cumulatively, Senior-level professionals earned USD38.8 million, and Mid-level professionals earned USD18.7 million during the 3-year period. The analysis of salary by job title shows that Principal Data Engineers had the highest average salary, followed by Financial Data Analysts, Research Scientists, and Applied Machine Learning Scientists.
+
+In conclusion, the dataset provides a comprehensive look at the data science profession and the trends in the industry. The steady increase in the number of data professionals, the shift towards remote work, and the rise in total salaries earned are all indicative of a growing and lucrative field. To stay competitive in the industry, it is important for data professionals to have a mix of experience, skills, and qualifications that align with the most in-demand job titles, such as Data Engineers, Data Scientists, and Data Analysts.
